@@ -1,4 +1,4 @@
-name: prwlr_UPD126
+name: physical-interactions-no-ko-dups-removal
 channels:
   - r
   - conda-forge
