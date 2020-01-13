@@ -1,9 +1,6 @@
 name: physical-interactions-no-ko-dups-removal
 channels:
-  - r
-  - conda-forge
   - defaults
-  - bioconda
 dependencies:
   - _libgcc_mutex=0.1=main
   - _r-mutex=1.0.1=anacondar_1
