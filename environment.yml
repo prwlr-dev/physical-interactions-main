@@ -11,4 +11,4 @@ dependencies:
   - ipykernel
   - pip
   - pip:
-
+    - git+https://github.com/dizak/prwlr.git@126-UPD-duplicate
