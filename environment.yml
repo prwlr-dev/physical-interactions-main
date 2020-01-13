@@ -1,0 +1,14 @@
+name: physical-interactions-no-ko-dups-removal
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - networkx
+  - matplotlib
+  - seaborn
+  - requests
+  - nb_conda
+  - ipykernel
+  - pip
+  - pip:
+    - git+https://github.com/dizak/prwlr.git@126-UPD-duplicate
