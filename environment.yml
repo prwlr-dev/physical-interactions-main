@@ -11,5 +11,4 @@ dependencies:
   - ipykernel
   - pip
   - pip:
-prefix: /home/dizak/miniconda3/envs/prwlr_UPD126
 
