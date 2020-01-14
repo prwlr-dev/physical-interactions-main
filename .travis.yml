@@ -14,6 +14,7 @@ install:
 
 script:
   - conda env create -f environment.yml
+  - python -m json.tool physical-interactions-no-ko-dups-removal.ipynb
 
 notifications:
   email:
