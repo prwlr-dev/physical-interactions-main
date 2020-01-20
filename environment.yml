@@ -9,6 +9,7 @@ dependencies:
   - requests
   - nb_conda
   - ipykernel
+  - ipywidgets
   - pip
   - pip:
     - git+https://github.com/dizak/prwlr.git@126-UPD-duplicate
